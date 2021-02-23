@@ -71,7 +71,6 @@
 #name = 'Jenny'
 #age = 11
 #print (f"{hello} {name} you are {age} years old!")
-
 #Weird Booleans
 x = None
 y = False
