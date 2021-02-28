@@ -36,5 +36,18 @@
 #new_string = ' '.join(my_list)
 #print(new_string)
 
+varstr = "Tom"
+vardec = 3
+varflo = 3.769420
+my_string = "The variable is %s" % varstr
+my_string2 = "The variable is %d" % vardec
+my_string3 = "The variable is %f" % varflo
+print(my_string)
+print(my_string2)
+print(my_string3)
+
+#F string
+fstring = f"the variable is {varstr}, {vardec} and {varflo}"
+print(fstring)
 
 # PAUSED AT 1:17:06
