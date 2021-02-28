@@ -53,7 +53,7 @@ def hangman():
         print(lives_visual_dict[lives])
         print('You died, sorry. The word was', word)
     else:
-        print('YAY! You guessed the word', word, '!!')
+        print('Congratulations ! You guessed the word', word, '!')
 
 
 if __name__ == '__main__':
